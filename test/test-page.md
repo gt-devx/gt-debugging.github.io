@@ -1,2 +1,2 @@
 # test
-[I'm an inline-style link](index.md)
+[I'm an inline-style link](gt-debugging.github.io)
