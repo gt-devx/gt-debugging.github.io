@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/gt-debugging/gt-debugging.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<a href="test/test">Test page</a>
+<a href="test/test.md">Test page</a>
 
 ### Markdown
 
