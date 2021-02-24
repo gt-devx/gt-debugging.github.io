@@ -1,2 +1,2 @@
 # test
-[I'm an inline-style link](gt-debugging.github.io)
+[I'm an inline-style link](https://gt-debugging.github.io)
