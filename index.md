@@ -60,14 +60,14 @@ Tout membre du GDR DPL est bienvenu pour participer, ainsi que tout industriel o
 - Appels à contributions sur numéros spéciaux de revues internationales
 - Proposition de workshops dans les conférences internationales du domaine
 
-# Équipes
+# Équipes
 
 8 équipes participent aujourd'hui au GT, dont 2 équipes internationales et 1 équipe industrielle.
 29 membres permanents de ces équipes ont déclaré leur participation, et 13 thèses sont en cours ou en démarrage sur les thèmes abordés par le GT.
 
 Les équipes participates sont les suivantes:
 
-#### Équipes du gdr-gpl
+#### Équipes du gdr-gpl
 
 **RMoD, Inria, Univ. Lille, CNRS, Centrale Lille, UMR 9189 - CRIStAL (Lille)**
 * Nombre de permanents impliqués dans le GT: 6
@@ -94,7 +94,7 @@ Les équipes participates sont les suivantes:
 * Représentant dans l'équipe : Alain Plantec (PR)
 * Expertise et intérêts scientifiques dans le cadre du GT : mécanismes réflexifs pour le ciblage et l'adaptation d'objets contextuellement défectueux, modélisation et patrons pour l'adaptation dynamiques
 
-#### Équipes internationales
+#### Équipes internationales
 
 **SmArtSE, Laboratoire d'Informatique Formelle (LIF), Chicoutimi, Québec, Canada**
 * Nombre de permanents impliqués dans le GT: 2
