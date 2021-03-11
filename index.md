@@ -65,7 +65,6 @@ Tout membre du GDR DPL est bienvenu pour participer, ainsi que tout industriel o
 8 équipes participent aujourd'hui au GT, dont 2 équipes internationales et 1 équipe industrielle.
 29 membres permanents de ces équipes ont déclaré leur participation, et 13 thèses sont en cours ou en démarrage sur les thèmes abordés par le GT.
 
-Les équipes participates sont les suivantes:
 
 #### Équipes du gdr-gpl
 
