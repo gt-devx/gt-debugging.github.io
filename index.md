@@ -19,7 +19,7 @@ Le GT oriente sa recherche autour de trois axes complémentaires.
 
 3. Enfin, nous étudions comment implémenter et généraliser les méthodes et techniques mises au point dans des outils utilisables et évaluables empiriquement. Ce dernier point est crucial, étant donné la difficulté notoire de créer des outils applicables sur des cas réel, de leur évaluation (c'est-à-dire : est-ce que ça marche vraiment ?) et de la reproductibilité des expériences.
 
-![Cycle](image.png)
+<div style="text-align:center"><img src="image.png" /></div>
 
 # Organisation
 
