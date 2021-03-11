@@ -34,7 +34,7 @@ Les équipes participantes à l'origine de la proposition du GT réunissent diff
 * Steven Costiou, CR Inria, Lille (https://kloum.io/costiou/)
 * Benoît Combemale, PR Université de Rennes (https://people.irisa.fr/Benoit.Combemale/)
 
-## Contact et participation
+## Contact et participation
 
 Tout membre du GDR DPL est bienvenu pour participer, ainsi que tout industriel ou chercheur international.
 
@@ -106,7 +106,7 @@ Les équipes participates sont les suivantes:
 * Représentant dans l'équipe: Elisa Gonzales Boix (Professor)
 * Expertise et intérêts scientifiques dans le cadre du GT : debugging for multicore and distributed systems, online debugging, record & replay debugging, back-in-time debugging, multiverse debugging,  meta-level architectures for debugging, optimizations and zero-overhead infrastructure for tools and debuggers, actor-based languages
 
-#### Équipes industrielles
+#### Équipes industrielles
 
 **UX Prototyping Team, THALES DMS, Brest, France**
 * Nombre de permanents impliqués dans le GT: 4
