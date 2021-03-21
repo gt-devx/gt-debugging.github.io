@@ -1,6 +1,5 @@
 <header>
-Things
-============
+# Things
 </header>
 <main>
 
