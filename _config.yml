@@ -1,5 +1,6 @@
-title: GT Debugging - GDR GPL / CNRS
+#title: GT Debugging - GDR GPL / CNRS
 #theme: jekyll-theme-primer
+title: GT Debugging
 theme: minima
 github:
   is_project_page: false
