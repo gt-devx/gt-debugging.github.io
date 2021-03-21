@@ -1,5 +1,6 @@
 ---
 title: Équipes
+order: 3
 ---
 
 8 équipes participent aujourd'hui au GT, dont 2 équipes internationales et 1 équipe industrielle.
