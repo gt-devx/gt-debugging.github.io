@@ -1,5 +1,5 @@
 ---
-title: Communauté
+title: Contact
 order: 3
 ---
 
