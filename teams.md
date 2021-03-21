@@ -1,7 +1,6 @@
-<header>
-# Things
-</header>
-<main>
+---
+title: Introduction
+---
 
 # Équipes
 
