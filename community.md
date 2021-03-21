@@ -1,6 +1,6 @@
 ---
 title: Communauté
-order: 2
+order: 3
 ---
 
 ## Responsables du GT
