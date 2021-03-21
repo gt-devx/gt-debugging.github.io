@@ -1,6 +1,6 @@
 ---
-title: Le GT
-order: 0
+title: Bienvenue !
+order: 1
 ---
 
 Ce GT a pour objectif de rassembler dans une même communauté tout chercheur, ingénieur, équipe industrielle ou du GDR qui s'intéresse aux problèmes du debugging logiciel.
