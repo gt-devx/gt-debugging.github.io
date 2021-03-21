@@ -1,4 +1,6 @@
-# Bienvenue sur le site du GT debugging
+---
+title: Bienvenue sur le site du GT debugging
+---
 
 Ce GT a pour objectif de rassembler dans une même communauté tout chercheur, ingénieur, équipe industrielle ou du GDR qui s'intéresse aux problèmes du debugging logiciel.
 Il s'inscrit dans la communauté du GDR Génie de la Programmation et du Logiciel (GPL) du CNRS.
