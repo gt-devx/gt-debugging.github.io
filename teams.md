@@ -1,4 +1,8 @@
-title: This is a title for the web-page
+<header>
+Things
+============
+</header>
+<main>
 
 # Équipes
 
