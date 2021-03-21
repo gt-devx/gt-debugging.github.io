@@ -1,4 +1,4 @@
-% Test
+title: This is a title for the web-page
 
 # Équipes
 
