@@ -23,30 +23,13 @@ Le GT oriente sa recherche autour de trois axes complémentaires.
 
 <div style="text-align:center"><img src="image.png" /></div>
 
-# Organisation
+## Organisation
 
 Nous souhaitons favoriser et à maximiser les collaborations entre les membres participants, notamment au travers du partage d'expertises : on pense à l'implémentation d'outils, à leur application à d'autre cas et à leur généralisation, et aux évaluations empiriques.
 
 Un des objectifs est de structurer la communauté Française du debugging pour la rendre visible et la mettre en avant à l'international, en proposant des appels à contributions pour des numéros spéciaux de revues internationales sur le debugging (Science of Computer Programming, Journal of Object Technology, The Art, Science and Engineering of Programming, etc.) ou des organisations de workshops dans les conférences importantes du domaine (ICSE, SPLASH, SLE, DLS, etc.).
 
 Les équipes participantes à l'origine de la proposition du GT réunissent différentes expertises scientifiques qui couvrent tout le spectre problème-évaluation-étude-implémentation-généralisation de l'axe scientifique du GT, comptant des industriels (Thales) et des équipes internationales (Université de Chicoutimi au Québec et VUB Bruxelles). Le spectre du GT debugging reste large et transversal à d'autres GT, du point de vue domaine applicatif ou des méthodes étudiées. Notre objectif est également de vulgariser les problèmes scientifiques cachés sous l'aspect appliqué du debugging et de rassembler les différents acteurs du GDR rencontrant et étudiant ces problèmes.
-
-## Responsables du GT
-
-* Steven Costiou, CR Inria, Lille (https://kloum.io/costiou/)
-* Benoît Combemale, PR Université de Rennes (https://people.irisa.fr/Benoit.Combemale/)
-
-## Contact et participation
-
-Tout membre du GDR DPL est bienvenu pour participer, ainsi que tout industriel ou chercheur international.
-
-- Inscrivez vous sur la liste debugging@inria.fr (https://sympa.inria.fr/sympa/info/debugging)
-- Si vous souhaitez joindre le groupe en tant qu'équipe, merci de vous inscrire sur la liste et d'y envoyer les informations suivantes:
-  * Nom de l'équipe, localisation, laboratoire si judicieux, type d'équipe (académique, industrielle, internationale)
-  * Nombre de permanents de l'équipe impliqués dans le GT
-  * Représentant de l'équipe pour le GT
-  * Expertise et intérêts scientifiques dans le cadre du GT
-
 
 ## Animation
 
