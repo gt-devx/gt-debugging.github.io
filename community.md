@@ -18,4 +18,12 @@ Tout membre du GDR DPL est bienvenu pour participer, ainsi que tout industriel o
   * Nombre de permanents de l'équipe impliqués dans le GT
   * Représentant de l'équipe pour le GT
   * Expertise et intérêts scientifiques dans le cadre du GT
+- Rejoignez notre serveur Discord! L'invitation est disponible à la demande via la mailing list (bientôt).
 
+## Appel à contribution
+Nous recherchons de l'aide pour l'administration du groupe et de son site web.
+Si vous êtes étudiant (master, doctorant) et que vous travaillez sur le debugging, n'hésitez pas à vous manifester.
+Nous avons besoin d'aide pour :
+- maintenir le présent site web
+- traduire le site en anglais et l'organiser en deux versions (FR/EN)
+- aider à la logistique d'enregistrement et de diffusion des présentations (pour celles qui seront enregistrées)
