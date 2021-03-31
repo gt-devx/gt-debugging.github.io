@@ -17,7 +17,7 @@ GT Debugging kickoff meeting: objectifs, organisation, tour de table.
 
 (Précision de la date à venir)
 
-# Meeting 2: Debugger en prototypage industriel- juin 2021
+## Meeting 2: Debugger en prototypage industriel- juin 2021
 ### Présentation
 Éric Le Pors & Pierre Laborde, Thales DMS
 
