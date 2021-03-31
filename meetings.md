@@ -1,3 +1,8 @@
+---
+title: Meetings
+order: 1
+---
+
 Pour cette première année, nous mettons en place un format court et régulier, c'est-à-dire des réunions mensuelles de 45 minutes en visioconférence.
 Chaque réunion commencera par des annonces éventuelles, puis une présentation scientifique ou technique de 15 à 20 minutes suivie d'une discussion sur le reste de la séance.
 Un compte rendu de la présentation et des discussions sera publié, et la présentation enregistrée et diffusée en interne dans le GT (si les participantes et participants à la réunion sont d'accord).
