@@ -13,7 +13,7 @@ Ces réunions mensuelles seront complétées d'une part par des canaux de discus
 ### Présentation
 Steven Costiou & Benoît Combemale
 
-GT Debugging kickoff meeting: objectifs, organisation, tour de table.
+**GT Debugging kickoff meeting: objectifs, organisation, tour de table.**
 
 (Précision de la date à venir)
 
@@ -21,6 +21,6 @@ GT Debugging kickoff meeting: objectifs, organisation, tour de table.
 ### Présentation
 Éric Le Pors & Pierre Laborde, Thales DMS
 
-Prototypage IHM pour la défense : déboguage et correctifs distribués à chaud et sans interruption de système collaboratifs en cours d'exécution
+**Prototypage IHM pour la défense : déboguage et correctifs distribués à chaud et sans interruption de système collaboratifs en cours d'exécution**
 
 (Précision de la date à venir)
