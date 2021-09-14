@@ -10,21 +10,19 @@ Un compte rendu de la présentation et des discussions sera publié, et la prés
 Ces réunions mensuelles seront complétées d'une part par des canaux de discussions continues (mailing list, chat discord) et thématiques, ainsi que par un workshop annuel sur 1 ou 2 jours, probablement en fin d'année et si possible en réel.
 
 
-## Meeting 3: Debugger en prototypage industriel - 7 juillet 2021
+## Meeting 3: Debugger en prototypage industriel - 7 juillet 2021 ([slides](https://github.com/gt-debugging/gt-debugging.github.io/blob/main/res/GT-Debugging-Meeting-3.pdf))
 ### Présentation
 - Éric Le Pors & Pierre Laborde, Thales DMS. **Prototypage IHM pour la défense : déboguage et correctifs distribués à chaud et sans interruption de système collaboratifs en cours d'exécution**
 
-(Précision de la date à venir)
 
-## Meeting 2: Session debugging des journées du GDR-GPL - 15 juin 2021
+## Meeting 2: Session debugging des journées du GDR-GPL - 15 juin 2021 ([slides](https://github.com/gt-debugging/gt-debugging.github.io/blob/main/res/gdr-gpl-days-2021.pdf))
 ### Présentations
-- Dorian Leroy. **Monilogging for Executable DSLs**
+- Dorian Leroy. **Monilogging for Executable DSLs** ([slides](https://github.com/gt-debugging/gt-debugging.github.io/blob/main/res/GT-debugging-kickoff.pdf))
 
-- Steven Costiou, Vincent Aranega, Marcus Denker. **Sub-method, portable behavioural reflection with Reflectivity: looking back on 10 years of use**
+- Steven Costiou, Vincent Aranega, Marcus Denker. **Sub-method, portable behavioural reflection with Reflectivity: looking back on 10 years of use** ([video](https://www.youtube.com/watch?v=bJO4tAiIwng))
 
 
 ## Meeting 1: Kickoff - 21 mai 2021
 ### Présentation
-- Steven Costiou, Benoît Combemale. **GT Debugging kickoff meeting: objectifs, organisation, tour de table.**
-
+- Steven Costiou, Benoît Combemale. **GT Debugging kickoff meeting: objectifs, organisation, tour de table.** ([slides](https://github.com/gt-debugging/gt-debugging.github.io/blob/main/res/GT-debugging-kickoff.pdf))
 
