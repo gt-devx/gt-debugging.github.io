@@ -19,7 +19,7 @@ Date en cours de précision.
 
 
 ### Meeting 2: Session debugging des journées du GDR-GPL - 15 juin 2021 ([slides](https://github.com/gt-debugging/gt-debugging.github.io/blob/main/res/gdr-gpl-days-2021.pdf))
-- Dorian Leroy. **Monilogging for Executable DSLs** ([slides](https://github.com/gt-debugging/gt-debugging.github.io/blob/main/res/GT-debugging-kickoff.pdf))
+- Dorian Leroy. **Monilogging for Executable DSLs** ([slides](https://github.com/gt-debugging/gt-debugging.github.io/blob/main/res/talk-gdr-gpl.pdf))
 
 - Steven Costiou, Vincent Aranega, Marcus Denker. **Sub-method, portable behavioural reflection with Reflectivity: looking back on 10 years of use** ([video](https://www.youtube.com/watch?v=bJO4tAiIwng))
 
