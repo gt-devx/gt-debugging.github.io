@@ -10,7 +10,7 @@ Un compte rendu de la présentation et des discussions sera publié, et la prés
 Ces réunions mensuelles seront complétées d'une part par des canaux de discussions continues (mailing list, chat discord) et thématiques, ainsi que par un workshop annuel sur 1 ou 2 jours, probablement en fin d'année et si possible en réel.
 
 
-### Meeting 4 : Time Traveling Debugging - 28 septembre 2021 ([slides](à venir))
+### Meeting 4 : Time Traveling Debugging - 28 septembre 2021 ([slides](https://github.com/gt-debugging/gt-debugging.github.io/blob/main/res/TTQ.pdf))
 - Maximilian Willembrinck, Inria. **Time Traveling Queries** ([video](https://files-debugging.inria.fr/time-traveling-queries.mp4))
 
 
