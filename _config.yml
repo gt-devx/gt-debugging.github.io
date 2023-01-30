@@ -1,7 +1,8 @@
 #title: GT Debugging - GDR GPL / CNRS
 #theme: jekyll-theme-primer
 title: GT Debugging
-theme: minima
+#theme: minima
+remote_theme: alshedivat/al-folio
 github:
   is_project_page: false
 show_downloads: false
