@@ -7,7 +7,7 @@ Le GT Debugging aura deux sessions de présentations aux journées du GDR-GPL 20
 - Jeudi 8 juin de 16h à 17h30
 Le programme complet de la journée du GDR le 8 juin est visible ici https://gdrgpl2023.sciencesconf.org/program/graphic/date/2023-06-08
 
-Les présentations du GT Debugging seront donc réparties en deux sessions.
+Les présentations du GT-Debugging seront donc réparties en deux sessions.
 
 ## Session 1 : 14h00 - 15h30
 
