@@ -1,5 +1,5 @@
 ---
-title: Sessions 2023 des journées nationales du GDR GPL
+title: Sessions 2023 du GDR GPL
 order: 1
 ---
 Le GT Debugging aura deux sessions de présentations aux journées du GDR-GPL 2023 :
@@ -13,7 +13,7 @@ Les présentations du GT-Debugging seront donc réparties en deux sessions.
 
 ### 1 - Finding Faults of Executable Models: Manually and Automatically
 
-**Faezh Khorram** - HUAWEI technologies France.
+**Faezeh Khorram** - HUAWEI technologies France.
 
 **Abstract**
 
