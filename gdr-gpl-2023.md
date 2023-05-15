@@ -15,7 +15,7 @@ Les présentations du GT Debugging seront donc réparties en deux sessions.
 
 
 
-### Finding Faults of Executable Models: Manually and Automatically
+### 1 - Finding Faults of Executable Models: Manually and Automatically
 
 **Authors**
 
@@ -26,7 +26,7 @@ Faezh Khorram
 When a model represents the dynamic aspects of a system (a.k.a behavioral model), testing it becomes a necessitate to ensure it represents the correct behavior. If test cases fail, it alerts the existence of faults in the model, hereafter proper means are needed to localize the faults. In this presentation, I will talk about both manual and automatic fault localization techniques in the context of executable models and their test cases. In particular, the challenges of adopting the existing debugging techniques from the software testing area to the model testing area will be discussed. Finally, I will present a generic solution to tackle the challenges along with demonstrating the developed solution in an Eclipse environment.
 
 
-### Détection des anomalies d'ordonnancement dans un système temps réel.
+### 2 - Détection des anomalies d'ordonnancement dans un système temps réel.
 
 **Authors**
 
@@ -36,7 +36,17 @@ Blandine Djika (speaker), Georges Kouamou, Frank Singhoff, Alain Plantec
 
 Nos travaux portent sur les anomalies d'ordonnancement dans les systèmes temps réel. Dans un système temps réel, les tâches doivent être exécutées de sorte qu'elles respectent des contraintes temporelles telles que des échéances. Pour ce faire, les acteurs du domaine valident le comportement temporel des tâches lors des phases amonts de la conception du système. Toutefois, sous certaines conditions, il peut arriver que les échéances des tâches ne soient finalement pas respectées à l'exécution. C'est notamment le cas lors d'évènements contre intuitifs comme l'augmentation des ressources du système. On parle alors d'anomalies d'ordonnancement. Dans cet exposé, nous décrivons un modèle d'analyse permettant  la détection de ces anomalies d'ordonnancement. Nous montrons également comment exploiter ce modèle pour le développement d'un outil de monitoring sur POSIX/RTEMS appelé MONANO. MONANO permet de détecter ce type d'anomalies à l'exécution.
 
-### Protocol-Based Interactive Debugging for Domain-Specific Languages.
+### 3 - Prototypage IHM pour la défense : déboguage et correctifs distribués à chaud et sans interruption de système collaboratifs en cours d’exécution.
+
+**Authors**
+
+Pierre Laborde, Éric Le Pors
+
+**Abstract**
+
+
+
+### 4 - Protocol-Based Interactive Debugging for Domain-Specific Languages.
 
 **Authors**
 
@@ -54,7 +64,7 @@ The proposed debugger can itself be controlled using a reinterpretation of the D
 Using a prototype implementation based on JSON-RPC and two heterogeneous DSL runtimes, we demonstrate that our approach provides an off-the-shelf reusable interactive debugger that supports meaningful domain-specific breakpoints, and that can be used with minimal effort within a standard IDE such as Visual Studio Code.
 
 
-### Comment faciliter le processus de debugging en tracant la compilation.
+### 5 - Comment faciliter le processus de debugging en tracant la compilation.
 
 **Authors**
 
