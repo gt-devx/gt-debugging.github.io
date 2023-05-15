@@ -1,5 +1,5 @@
 ---
-title: |Équipes|
+title: =Équipes=
 order: 1
 ---
 
