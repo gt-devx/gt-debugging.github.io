@@ -13,7 +13,7 @@ Les présentations du GT Debugging seront donc réparties en deux sessions.
 
 ### 1 - Finding Faults of Executable Models: Manually and Automatically
 
-**Authors:** Faezh Khorram - HUAWEI technologies France.
+**Faezh Khorram** - HUAWEI technologies France.
 
 **Abstract**
 
@@ -22,7 +22,7 @@ When a model represents the dynamic aspects of a system (a.k.a behavioral model)
 
 ### 2 - Détection des anomalies d'ordonnancement dans un système temps réel.
 
-**Authors:** Blandine Djika (speaker), Georges Kouamou, Frank Singhoff, Alain Plantec - Université de Bretagne Occidentale.
+**Blandine Djika (speaker), Georges Kouamou, Frank Singhoff, Alain Plantec** - Université de Bretagne Occidentale.
 
 **Abstract**
 
@@ -30,7 +30,7 @@ Nos travaux portent sur les anomalies d'ordonnancement dans les systèmes temps 
 
 ### 3 - Prototypage IHM pour la défense : déboguage et correctifs distribués à chaud et sans interruption de système collaboratifs en cours d’exécution.
 
-**Authors:** Pierre Laborde, Éric Le Pors - Thales DMS, Brest.
+**Pierre Laborde, Éric Le Pors** - Thales DMS, Brest.
 
 **Abstract**
 
@@ -38,7 +38,7 @@ Nos travaux portent sur les anomalies d'ordonnancement dans les systèmes temps 
 
 ### 4 - Protocol-Based Interactive Debugging for Domain-Specific Languages.
 
-**Authors:** Josselin ENET (speaker), Erwan BOUSSE, Massimo TISI, Gerson SUNYE - Université de Nantes, équipe Naomod.
+**Josselin ENET (speaker), Erwan BOUSSE, Massimo TISI, Gerson SUNYE** - Université de Nantes, équipe Naomod.
 
 **Abstract**
 
@@ -54,7 +54,7 @@ Using a prototype implementation based on JSON-RPC and two heterogeneous DSL run
 
 ### 5 - Comment faciliter le processus de debugging en tracant la compilation.
 
-**Authors:** Bruno MATEU - IMT Atlantique, Brest.
+**Bruno MATEU** - IMT Atlantique, Brest.
 
 **Abstract**
 
