@@ -1,5 +1,5 @@
 ---
-title: Meetings
+title: [Meetings]
 order: 1
 ---
 
