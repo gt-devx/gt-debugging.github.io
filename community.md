@@ -1,5 +1,5 @@
 ---
-title: Communauté
+title: [Communauté]
 order: 3
 ---
 
