@@ -1,5 +1,5 @@
 ---
-title: Sessions-2023
+title: Sessions 2023 des journées nationales du GDR GPL
 order: 1
 ---
 Le GT Debugging aura deux sessions de présentations aux journées du GDR-GPL 2023 :
