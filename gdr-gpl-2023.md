@@ -9,11 +9,7 @@ Le programme complet de la journée du GDR le 8 juin est visible ici https://gdr
 
 Les présentations du GT Debugging seront donc réparties en deux sessions.
 
-## Session 1
-
-## Session 2
-
-
+## Session 1 : 14h00 - 15h30
 
 ### 1 - Finding Faults of Executable Models: Manually and Automatically
 
@@ -44,7 +40,7 @@ Pierre Laborde, Éric Le Pors
 
 **Abstract**
 
-
+## Session 2 : 16h00 - 17h30
 
 ### 4 - Protocol-Based Interactive Debugging for Domain-Specific Languages.
 
