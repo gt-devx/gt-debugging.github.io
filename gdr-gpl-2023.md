@@ -100,3 +100,7 @@ Dans cette présentation, je souhaite présenter le problème détaillé ci-dess
 les travaux que j'ai effectué sur le compilateur LLVM pour tracer les transformations,
 puis présenter deux cas d'usages-type de bugs pour lesquels la trace produite peut faciliter
 le processus de debug.
+
+### 6 - Temps de discussion.
+
+**Benoit Combemale, Steven Costiou**
