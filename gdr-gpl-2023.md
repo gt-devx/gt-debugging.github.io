@@ -32,7 +32,9 @@ Nos travaux portent sur les anomalies d'ordonnancement dans les systèmes temps 
 
 **Pierre Laborde, Éric Le Pors** - Thales DMS, Brest.
 
-**Abstract**
+**Abstract** 
+
+Nous réalisons des prototypes d’interface homme-machine (IHM) pour différents domaines de la défense (Aérien, Terrestre, Maritime, etc.) dans le but de concevoir de futurs systèmes de mission. Pour mettre au point ces prototypes nous allons jusqu’à mettre en situation les utilisateurs avec des scénarios d’usages au travers d’évaluations ergonomiques. Les utilisateurs sont alors immergés dans une séance qui leur permet de réaliser les tâches de leur quotidien comme s'ils avaient le futur système entre leurs mains. Nos spécialistes UX (User Experience) et IHM observent alors les séances au travers des différents scénarios pour mieux récolter les retours utilisateurs, les problèmes, identifier les manques mais aussi mettre en avant et tester des nouvelles capacités ou ergonomies. Cependant, ces prototypes ne sont pas exempts de défauts : il y a parfois des bogues et des choses que nous n’avons pas anticipées. Ces séances sont longues, rares et difficiles à mettre au point, nous avons donc besoin de faire travailler au maximum les utilisateurs sans les interrompre et sans perturber le bon déroulé des scénarios. Il nous faut pouvoir résoudre tous les problèmes qui surviennent (dans la mesure du possible) pendant que le système est utilisé. Si le système doit être arrêté pour un problème, nous perdons parfois des heures de mise en situation et de contexte utilisateur. Nous avons mis au point des outils et des processus qui nous permettent d’intervenir directement pendant l’exécution, sans interruption majeure, et ceci alors que le système est utilisé de manière collaborative par plusieurs personnes en même temps. Nous expliquons dans cette présentation notre démarche au travers d’un exemple récent d’évaluation ergonomique sur prototype de système de surveillance maritime à bord d’un avion simulé avec un équipage de 5 personnes.
 
 ## Session 2 : 16h00 - 17h30
 
