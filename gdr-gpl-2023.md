@@ -20,25 +20,7 @@ Les présentations du GT-Debugging seront donc réparties en deux sessions.
 When a model represents the dynamic aspects of a system (a.k.a behavioral model), testing it becomes a necessitate to ensure it represents the correct behavior. If test cases fail, it alerts the existence of faults in the model, hereafter proper means are needed to localize the faults. In this presentation, I will talk about both manual and automatic fault localization techniques in the context of executable models and their test cases. In particular, the challenges of adopting the existing debugging techniques from the software testing area to the model testing area will be discussed. Finally, I will present a generic solution to tackle the challenges along with demonstrating the developed solution in an Eclipse environment.
 
 
-### 2 - Détection des anomalies d'ordonnancement dans un système temps réel.
-
-**Blandine Djika (speaker), Georges Kouamou, Frank Singhoff, Alain Plantec** - Université de Bretagne Occidentale.
-
-**Abstract**
-
-Nos travaux portent sur les anomalies d'ordonnancement dans les systèmes temps réel. Dans un système temps réel, les tâches doivent être exécutées de sorte qu'elles respectent des contraintes temporelles telles que des échéances. Pour ce faire, les acteurs du domaine valident le comportement temporel des tâches lors des phases amonts de la conception du système. Toutefois, sous certaines conditions, il peut arriver que les échéances des tâches ne soient finalement pas respectées à l'exécution. C'est notamment le cas lors d'évènements contre intuitifs comme l'augmentation des ressources du système. On parle alors d'anomalies d'ordonnancement. Dans cet exposé, nous décrivons un modèle d'analyse permettant  la détection de ces anomalies d'ordonnancement. Nous montrons également comment exploiter ce modèle pour le développement d'un outil de monitoring sur POSIX/RTEMS appelé MONANO. MONANO permet de détecter ce type d'anomalies à l'exécution.
-
-### 3 - Prototypage IHM pour la défense : déboguage et correctifs distribués à chaud et sans interruption de système collaboratifs en cours d’exécution.
-
-**Pierre Laborde, Éric Le Pors** - Thales DMS, Brest.
-
-**Abstract** 
-
-Nous réalisons des prototypes d’interface homme-machine (IHM) pour différents domaines de la défense (Aérien, Terrestre, Maritime, etc.) dans le but de concevoir de futurs systèmes de mission. Pour mettre au point ces prototypes nous allons jusqu’à mettre en situation les utilisateurs avec des scénarios d’usages au travers d’évaluations ergonomiques. Les utilisateurs sont alors immergés dans une séance qui leur permet de réaliser les tâches de leur quotidien comme s'ils avaient le futur système entre leurs mains. Nos spécialistes UX (User Experience) et IHM observent alors les séances au travers des différents scénarios pour mieux récolter les retours utilisateurs, les problèmes, identifier les manques mais aussi mettre en avant et tester des nouvelles capacités ou ergonomies. Cependant, ces prototypes ne sont pas exempts de défauts : il y a parfois des bogues et des choses que nous n’avons pas anticipées. Ces séances sont longues, rares et difficiles à mettre au point, nous avons donc besoin de faire travailler au maximum les utilisateurs sans les interrompre et sans perturber le bon déroulé des scénarios. Il nous faut pouvoir résoudre tous les problèmes qui surviennent (dans la mesure du possible) pendant que le système est utilisé. Si le système doit être arrêté pour un problème, nous perdons parfois des heures de mise en situation et de contexte utilisateur. Nous avons mis au point des outils et des processus qui nous permettent d’intervenir directement pendant l’exécution, sans interruption majeure, et ceci alors que le système est utilisé de manière collaborative par plusieurs personnes en même temps. Nous expliquons dans cette présentation notre démarche au travers d’un exemple récent d’évaluation ergonomique sur prototype de système de surveillance maritime à bord d’un avion simulé avec un équipage de 5 personnes.
-
-## Session 2 : 16h00 - 17h30
-
-### 4 - Protocol-Based Interactive Debugging for Domain-Specific Languages.
+### 2 - Protocol-Based Interactive Debugging for Domain-Specific Languages.
 
 **Josselin ENET (speaker), Erwan BOUSSE, Massimo TISI, Gerson SUNYE** - Université de Nantes, équipe Naomod.
 
@@ -53,6 +35,24 @@ We propose a protocol allowing a generic interactive debugger to communicate wit
 The proposed debugger can itself be controlled using a reinterpretation of the Debug Adapter Protocol (DAP), for an effortless integration in existing Integrated Development Environments (IDEs) that support it.
 Using a prototype implementation based on JSON-RPC and two heterogeneous DSL runtimes, we demonstrate that our approach provides an off-the-shelf reusable interactive debugger that supports meaningful domain-specific breakpoints, and that can be used with minimal effort within a standard IDE such as Visual Studio Code.
 
+
+### 3 - Prototypage IHM pour la défense : déboguage et correctifs distribués à chaud et sans interruption de système collaboratifs en cours d’exécution.
+
+**Pierre Laborde, Éric Le Pors** - Thales DMS, Brest.
+
+**Abstract** 
+
+Nous réalisons des prototypes d’interface homme-machine (IHM) pour différents domaines de la défense (Aérien, Terrestre, Maritime, etc.) dans le but de concevoir de futurs systèmes de mission. Pour mettre au point ces prototypes nous allons jusqu’à mettre en situation les utilisateurs avec des scénarios d’usages au travers d’évaluations ergonomiques. Les utilisateurs sont alors immergés dans une séance qui leur permet de réaliser les tâches de leur quotidien comme s'ils avaient le futur système entre leurs mains. Nos spécialistes UX (User Experience) et IHM observent alors les séances au travers des différents scénarios pour mieux récolter les retours utilisateurs, les problèmes, identifier les manques mais aussi mettre en avant et tester des nouvelles capacités ou ergonomies. Cependant, ces prototypes ne sont pas exempts de défauts : il y a parfois des bogues et des choses que nous n’avons pas anticipées. Ces séances sont longues, rares et difficiles à mettre au point, nous avons donc besoin de faire travailler au maximum les utilisateurs sans les interrompre et sans perturber le bon déroulé des scénarios. Il nous faut pouvoir résoudre tous les problèmes qui surviennent (dans la mesure du possible) pendant que le système est utilisé. Si le système doit être arrêté pour un problème, nous perdons parfois des heures de mise en situation et de contexte utilisateur. Nous avons mis au point des outils et des processus qui nous permettent d’intervenir directement pendant l’exécution, sans interruption majeure, et ceci alors que le système est utilisé de manière collaborative par plusieurs personnes en même temps. Nous expliquons dans cette présentation notre démarche au travers d’un exemple récent d’évaluation ergonomique sur prototype de système de surveillance maritime à bord d’un avion simulé avec un équipage de 5 personnes.
+
+## Session 2 : 16h00 - 17h30
+
+### 4 - Détection des anomalies d'ordonnancement dans un système temps réel.
+
+**Blandine Djika (speaker), Georges Kouamou, Frank Singhoff, Alain Plantec** - Université de Bretagne Occidentale.
+
+**Abstract**
+
+Nos travaux portent sur les anomalies d'ordonnancement dans les systèmes temps réel. Dans un système temps réel, les tâches doivent être exécutées de sorte qu'elles respectent des contraintes temporelles telles que des échéances. Pour ce faire, les acteurs du domaine valident le comportement temporel des tâches lors des phases amonts de la conception du système. Toutefois, sous certaines conditions, il peut arriver que les échéances des tâches ne soient finalement pas respectées à l'exécution. C'est notamment le cas lors d'évènements contre intuitifs comme l'augmentation des ressources du système. On parle alors d'anomalies d'ordonnancement. Dans cet exposé, nous décrivons un modèle d'analyse permettant  la détection de ces anomalies d'ordonnancement. Nous montrons également comment exploiter ce modèle pour le développement d'un outil de monitoring sur POSIX/RTEMS appelé MONANO. MONANO permet de détecter ce type d'anomalies à l'exécution.
 
 ### 5 - Comment faciliter le processus de debugging en tracant la compilation.
 
