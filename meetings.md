@@ -19,9 +19,8 @@ Ces réunions mensuelles seront complétées d'une part par des canaux de discus
 - Éric Le Pors & Pierre Laborde, Thales DMS. **Prototypage IHM pour la défense : déboguage et correctifs distribués à chaud et sans interruption de systèmes collaboratifs en cours d'exécution** ([video](https://files-debugging.inria.fr/Science-Talks/Hot-Debugging-Defense-Industry/hot-debugging-prototype-defense-industry.mp4))
 
 ### Meeting 2: Session debugging des journées du GDR-GPL - 15 juin 2021 ([intro](https://files-debugging.inria.fr/GDR-GPL/15-06-2021/gdr-gpl-days-2021.pdf))
-- Dorian Leroy. **Monilogging for Executable DSLs** ([slides](https://files-debugging.inria.fr/GDR-GPL/15-06-2021/Monilogging-Executable-DSLs.pdf))
 
-- Steven Costiou, Vincent Aranega, Marcus Denker. **Sub-method, portable behavioural reflection with Reflectivity: looking back on 10 years of use** ([youtube](https://www.youtube.com/watch?v=bJO4tAiIwng))
+Voir la page dédiée [dédiée](https://debugging.inria.fr/gdr-gpl-2021.html)
 
 
 ### Meeting 1: Kickoff - 21 mai 2021
