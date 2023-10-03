@@ -1,5 +1,5 @@
 ---
-title: Sessions 2021 du GDR GPL
+title: Sessions 2021
 order: 1
 ---
 Lors des journées du GDR-GPL 2021, le 8 juin 2021 :
